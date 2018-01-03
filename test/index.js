@@ -1,0 +1,1 @@
+const {FromWhatWGReadableStream} = require('../lib/index.js');

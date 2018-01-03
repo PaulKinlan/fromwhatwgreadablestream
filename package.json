@@ -1,0 +1,15 @@
+{
+  "name": "fromwhatwgreadablestream",
+  "version": "1.0.1",
+  "description": "Creates a node readable stream from a WhatWGStream",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "streams",
+    "whatwgstream"
+  ],
+  "author": "Paul Kinlan",
+  "license": "Apache-2.0"
+}
