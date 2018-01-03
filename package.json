@@ -1,6 +1,6 @@
 {
   "name": "fromwhatwgreadablestream",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Creates a node readable stream from a WhatWGStream",
   "main": "lib/index.js",
   "scripts": {
